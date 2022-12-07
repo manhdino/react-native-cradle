@@ -1,0 +1,16 @@
+export default {
+  icon_user: require('../assests/images/user.png'),
+  icon_temperature: require('../assests/images/temperature.png'),
+  icon_humidity: require('../assests/images/humidity.png'),
+  icon_fan: require('../assests/images/fan.png'),
+  icon_music: require('../assests/images/music.png'),
+  icon_noise: require('../assests/images/noise.png'),
+  icon_cradle_home: require('../assests/images/cradle_home.png'),
+  icon_back: require('../assests/images/left-arrow.png'),
+  icon_menu: require('../assests/images/menu2.png'),
+  icon_logout: require('../assests/images/logout.png'),
+  icon_notification: require('../assests/images/notification.png'),
+  icon_sound: require('../assests/images/sound.png'),
+  icon_home: require('../assests/images/home.png'),
+  icon_cradle: require('../assests/images/icon_baby_crib.png'),
+};
